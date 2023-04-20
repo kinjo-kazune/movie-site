@@ -1,0 +1,52 @@
+  .header {
+    display: flex;
+    background-color: #fff;
+    color: black;
+  }
+  
+  .primaryButton {
+    background-color: #0d3fa5;
+    border-radius: 7px;
+    color: #fff;
+    padding: 10px 7px;
+    margin: 15px 5px;
+  }
+
+  .primaryButton:hover {
+    opacity: 0.6;
+  }
+
+  .secondaryButton {
+    background-color: #19a50d;
+    border-radius: 7px;
+    color: #fff;
+    padding: 10px 7px;
+    margin: 15px 5px;
+  }
+
+  .secondaryButton:hover {
+    opacity: 0.6;
+  }
+
+  .theatersButton {
+    background-color: #fff;
+    color: black;
+    padding: 10px 50px;
+    margin: 10px;
+
+  }
+
+  .theatersButton:hover {
+    opacity: 0.6;
+  }
+
+  .footer {
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
+
+    position: absolute;
+    bottom: 0;
+  }
