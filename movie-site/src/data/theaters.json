@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "theater_name": "シネマQ"
+    },
+    {
+      "id": 2,
+      "theater_name": "シネマライカム"
+    },
+    {
+      "id": 3,
+      "theater_name": "ミハマ7プレックス"
+    },
+    {
+      "id": 4,
+      "theater_name": "サザンプレックス"
+    },
+    {
+      "id": 5,
+      "theater_name": "シネマパレット"
+    },
+    {
+      "id": 6,
+      "theater_name": "シネマプラザハウス"
+    }
+  ]

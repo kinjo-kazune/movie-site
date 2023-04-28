@@ -1,0 +1,222 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto 40px;
+    display: block;
+}
+
+/****** top_page ******/
+
+.subHeader {
+    height: 129px;
+    line-height: 129px;
+    display: block;
+}
+
+.headerBody {
+    text-align: center;
+    display: block;
+}
+
+.headerBody img {
+    display: inline;
+    vertical-align: middle;
+    margin: 0 16.2px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+/****** theater_page ******/
+
+.listItem {
+    padding-bottom: 0;
+    margin-bottom: 120px;
+    border-bottom: none;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    width: 80px;
+    font-size: 1.25em;
+    font-weight: 700;
+    padding: 0 20px 20px;
+}
+
+.theater {
+    display: flex;
+    flex-wrap: wrap;
+    grid-column-gap: 20px;
+    column-gap: 20px;
+    grid-row-gap: 20px;
+    row-gap: 20px;
+    width: 100%;
+}
+
+/****** movies_page ******/
+
+.moviesSearch {
+    max-width: 1000px;
+    margin: 0 auto 40px;
+    display: block;
+}
+
+.selectArea {
+    display: flex;
+}
+
+.selectItems {
+    margin-right: 10px;
+    flex: 1;
+    margin-bottom: 20px;
+}
+
+.selectTitle {
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.selectInner {
+    position: relative;
+    max-width: 490px;
+    background-color: #fff;
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px 0 #c7c7c7;
+}
+
+.selectInner select {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+    background-image: none;
+    box-shadow: none;
+    appearance: none;
+    font-size: 16px;
+    padding: 25px;
+}
+
+.checkBox {
+    display: block;
+}
+
+.titleArea {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.checkWrap {
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 10px;
+    gap: 10px;
+}
+
+.checkItem {
+    position: relative;
+}
+
+.checkItem:hover {
+    opacity: 0.6;
+}
+
+.checkItem input {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    opacity: 0;
+    cursor: pointer; 
+}
+
+.checkItem input[type="checkbox" i] {
+    background-color: initial;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;
+}
+
+.checkItem label {
+    display: block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    word-break: keep-all;
+}
+
+.movieBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    grid-column-gap: 10px;
+    column-gap: 10px;
+    grid-row-gap: 30px;
+    row-gap: 30px;
+    margin-bottom: 40px;
+}
+
+.display {
+    display: flex;
+    width: calc(50% - 10px);
+    opacity: 1;
+    transition: opacity 2.5s;
+}
+
+.imageWrap {
+    margin-right: 20px;
+    display: block;
+}
+
+.image {
+    max-width: 260px;
+    max-height: 100%;
+    object-fit: contain; 
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.image:hover {
+    opacity: 0.6;
+}
+
+.iconBox {
+    display: flex;
+    grid-column-gap: 5px;
+    column-gap: 5px;
+    margin-bottom: 10px;
+}
+
+.icon {
+    border-radius: 30px;
+}
+
+.titleBox {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.movieTitle {
+    font-size: 1em;
+}
+
+.movieText {
+    font-size: .8em;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "image": "https://source.unsplash.com/88lDyjdIDGw",
+      "icon": null,
+      "movies_title": "3D(吹替) アバター",
+      "text": "ミハマ 4/21(金)〜4/27(木)",
+      "theater": ["ミハマ7プレックス"]
+    },
+    {
+      "id": 2,
+      "image": "https://source.unsplash.com/BJaqPaH6AGQ",
+      "icon": "/images/icon12.jpg",
+      "movies_title": "東京リベンジャーズ2",
+      "text": "ミハマ 4/21(金)〜4/27(木)",
+      "theater": ["シネマQ", "シネマライカム", "ミハマ7プレックス", "サザンプレックス"]
+
+    },
+    {
+      "id": 3,
+      "image": "https://source.unsplash.com/hyTCfue7uI4",
+      "icon": "/images/icon12.jpg",
+      "movies_title": "ヴィレッジ",
+      "text": "ミハマ 4/21(金)〜4/27(木)",
+      "theater": ["シネマライカム"]
+    },
+    {
+      "id": 4,
+      "image": "https://source.unsplash.com/1VgfQdCuX-4",
+      "icon": null,
+      "movies_title": "HAPPY SANDWICH",
+      "text": "ミハマ 4/21(金)〜4/27(木)",
+      "theater": ["シネマパレット", "シネマプラザハウス"]
+    },
+    {
+      "id": 5,
+      "image": "https://source.unsplash.com/Q33VONoOfSU",
+      "icon": null,
+      "movies_title": "ジュラシックパーク3",
+      "text": "ミハマ 4/21(金)〜4/27(木)",
+      "theater": ["シネマプラザハウス"]
+    },
+    {
+      "id": 6,
+      "image": "https://source.unsplash.com/U6nlG0Y5sfs",
+      "icon": null,
+      "movies_title": "滝沢歌舞伎ZERO",
+      "text": "ミハマ 4/21(金)〜4/27(木)",
+      "theater": ["シネマQ"]
+    },
+    {
+        "id": 7,
+        "image": "https://source.unsplash.com/pOUA8Xay514",
+        "icon": null,
+        "movies_title": "名探偵コナン",
+        "text": "ミハマ 4/21(金)〜4/27(木)",
+        "theater": ["シネマQ", "シネマライカム", "ミハマ7プレックス", "サザンプレックス"]
+      },
+      {
+        "id": 8,
+        "image": "https://source.unsplash.com/IeT84oak7HQ",
+        "icon": "/images/icon18.jpg",
+        "movies_title": "ハロウィン",
+        "text": "ミハマ 4/21(金)〜4/27(木)",
+        "theater": ["ミハマ7プレックス"]
+      },
+      {
+        "id": 9,
+        "image": "https://source.unsplash.com/N_INAlQoO6Y",
+        "icon": null,
+        "movies_title": "サイド バイ サイド",
+        "text": "ミハマ 4/21(金)〜4/27(木)",
+        "theater": ["シネマライカム"]
+      },
+      {
+        "id": 10,
+        "image": "https://source.unsplash.com/ZCHj_2lJP00",
+        "icon": "/images/icon12.jpg",
+        "movies_title": "サーチ2",
+        "text": "ミハマ 4/21(金)〜4/27(木)",
+        "theater": ["シネマQ", "シネマライカム"]
+      },
+      {
+        "id": 11,
+        "image": "https://source.unsplash.com/w39PTDxKiK8",
+        "icon": null,
+        "movies_title": "ノック",
+        "text": "ミハマ 4/21(金)〜4/27(木)",
+        "theater": ["シネマQ", "ミハマ7プレックス"]
+      },
+      {
+        "id": 12,
+        "image": "https://source.unsplash.com/7sgPfAcM6_o",
+        "icon": "/images/icon12.jpg",
+        "movies_title": "ザ・ホエール",
+        "text": "ミハマ 4/21(金)〜4/27(木)",
+        "theater": ["シネマパレット", "シネマプラザハウス"]
+      }
+  ]
